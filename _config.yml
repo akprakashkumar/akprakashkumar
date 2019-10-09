@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Aswinkumar Prakashkumar"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/AK_DisplayPicture.jpg"
+  bio    : "Geek | Evangelist | Foodie | Travel-Lover | Father & Husband"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
