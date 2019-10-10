@@ -33,7 +33,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-  - _posts
   
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -61,24 +60,29 @@ author:
   avatar : "/assets/images/AK_DisplayPicture.jpg"
   bio    : "Geek, Tech-Evangelist, Foodie, Travel-Lover, Father & Husband"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://aswinkumar.in"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/akprakashkumar"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://aswinkumar.in"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/akprakashkumar"
-
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/pkaswinkumar"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/pkaswinkumar"
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/akprakashkumar"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/akprakashkumar"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/pkaswinkumar"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/pkaswinkumar
 
 defaults:
   # _posts
