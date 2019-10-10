@@ -2,4 +2,4 @@
 permalink: /about/
 title: "About"
 ---
-<div style="text-align: right"> I am a Systems Reliability Engineer with over 7 years of experience in managing distributed infrastructure. I have expertise in both on-prem and cloud systems. Proficient in scripting languages such as Python and PowerShell. </div>
+<div style="text-align: justify"> I am a Systems Reliability Engineer with over 7 years of experience in managing distributed infrastructure. I have expertise in both on-prem and cloud systems. Proficient in scripting languages such as Python and PowerShell. </div>
