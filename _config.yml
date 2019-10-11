@@ -68,7 +68,7 @@ author:
 footer:
   links:
     - label: "GitHub"
-      icon: <i class="fa fa-fw fa-github" style="color:#FFFFFF;"><!-- icon --></i>
+      icon: <i class="fab fa-fw fa-github" style="color:#FFFFFF;"><!-- icon --></i>
       url: "https://github.com/akprakashkumar"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
