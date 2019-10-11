@@ -36,7 +36,7 @@
   }
 
   a {
-    color: inherit;
+    color: $footer-text-color;
     text-decoration: none;
 
     &:hover {
@@ -55,6 +55,7 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  color: $footer-text-color
 }
 
 .page__footer-follow {
@@ -70,6 +71,7 @@
     padding-bottom: 5px;
     font-family: $sans-serif-narrow;
     font-size: $type-size-6;
+	color: $footer-text-color
     text-transform: uppercase;
   }
 
@@ -81,6 +83,7 @@
   a {
     padding-right: 10px;
     font-weight: bold;
+	color: $footer-text-color
   }
 
   .social-icons {
