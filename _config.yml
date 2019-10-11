@@ -13,9 +13,10 @@ github_username: akprakashkumar
 
 #Jekyll Theme & Build Settings
 minimal_mistakes_skin: dark
+search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-search: true
+
 
 # Outputting
 permalink: /:categories/:title/
