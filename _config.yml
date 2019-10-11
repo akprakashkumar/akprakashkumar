@@ -7,7 +7,7 @@
 #If you run into Jekyll Build Error, please use YAML Lint - YAML Validator to find out what's wrong and fix before making further changes. 
 
 title: "Aswinkumar Prakashkumar"
-subtitle: "Never Say Never"
+subtitle: "Systems Reliability | DevOps | Systems - Engineering"
 email: aswinkumar.p@outlook.com
 logo: "/assets/images/AK_Logo.jpg"
 description: >- # this means to ignore newlines until "baseurl:"
@@ -29,17 +29,8 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
   
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude: 
+  - _rawfiles
 
 # Plugins (previously gems:)
 plugins:
@@ -51,7 +42,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Aswinkumar Prakashkumar"
+  name   : "About Me"
   avatar : "/assets/images/AK_DisplayPicture.jpg"
   bio    : "Geek, Tech-Evangelist, Foodie, Travel-Lover, Father & Husband"
   links:
