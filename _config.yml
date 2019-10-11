@@ -8,16 +8,16 @@
 
 title: Aswinkumar Prakashkumar
 email: aswinkumar.p@outlook.com
-description: >- # this means to ignore newlines until "baseurl:"  
+description: >- # this means to ignore newlines until "baseurl:"
+  
+#twitter_username: username
 github_username: akprakashkumar
-
-#Jekyll Theme & Build Settings
 minimal_mistakes_skin: default
 search: true
+
+# Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-
-
 # Outputting
 permalink: /:categories/:title/
 paginate: 10 # amount of posts to show
