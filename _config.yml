@@ -6,8 +6,10 @@
 #This file is change it once and forget space, there should be no changes until you are revamping the overall design of the website. 
 #If you run into Jekyll Build Error, please use YAML Lint - YAML Validator to find out what's wrong and fix before making further changes. 
 
-title: Aswinkumar Prakashkumar
+title: "Aswinkumar Prakashkumar"
+subtitle: "Never Say Never"
 email: aswinkumar.p@outlook.com
+logo: "/assets/images/AK_Logo.png"
 description: >- # this means to ignore newlines until "baseurl:"
   
 #twitter_username: username
